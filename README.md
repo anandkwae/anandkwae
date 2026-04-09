@@ -75,6 +75,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anandkwae/anandkwae/output/snake.svg" alt="snake animation" />
+</div>
+
+---
+
 ## 📈 Profile Views
 
 ---
